@@ -1,0 +1,8 @@
+E:\C sharp programs\class_list\class_list\bin\Debug\class_list.exe.config
+E:\C sharp programs\class_list\class_list\bin\Debug\class_list.exe
+E:\C sharp programs\class_list\class_list\bin\Debug\class_list.pdb
+E:\C sharp programs\class_list\class_list\obj\Debug\class_list.csproj.AssemblyReference.cache
+E:\C sharp programs\class_list\class_list\obj\Debug\class_list.csproj.SuggestedBindingRedirects.cache
+E:\C sharp programs\class_list\class_list\obj\Debug\class_list.csproj.CoreCompileInputs.cache
+E:\C sharp programs\class_list\class_list\obj\Debug\class_list.exe
+E:\C sharp programs\class_list\class_list\obj\Debug\class_list.pdb
